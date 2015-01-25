@@ -1,4 +1,4 @@
-##Copyright (c) 2013 Sam Pikesley
+##Copyright (c) 2015 Sam Pikesley
 
 #MIT License
 
